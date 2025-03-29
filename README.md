@@ -26,7 +26,7 @@ Then, inside of your .cs file, paste the following at the top:
 using CasualDev.Numerics;
 ```
 
-For different IDEs or methods of installing this library, you can visit the [NuGet Repository](https://www.nuget.org/packages/CasualDev.Numerics) and view more installation methods from there.
+For different IDEs or methods of installing this library, you can visit the [NuGet Package](https://www.nuget.org/packages/CasualDev.Numerics) and view more installation methods from there.
 
 
 ## Syntax

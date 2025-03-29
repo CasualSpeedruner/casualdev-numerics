@@ -1,0 +1,11 @@
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\bin\Debug\net8.0\CasualDev.Numerics.deps.json
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\bin\Debug\net8.0\CasualDev.Numerics.dll
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\bin\Debug\net8.0\CasualDev.Numerics.pdb
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\CasualDev.Numerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\CasualDev.Numerics.AssemblyInfoInputs.cache
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\CasualDev.Numerics.AssemblyInfo.cs
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\CasualDev.Numerics.csproj.CoreCompileInputs.cache
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\CasualDev.Numerics.dll
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\refint\CasualDev.Numerics.dll
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\CasualDev.Numerics.pdb
+C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\obj\Debug\net8.0\ref\CasualDev.Numerics.dll

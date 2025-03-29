@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CasualDev.Numerics</id>
+    <version>1.0.0</version>
+    <authors>Casual</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Adds a "real" type (real number) to represent a floating point number with unlimited decimal precision.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\offic\Desktop\C# Libs\CasualDev.Numerics\CasualDev.Numerics\bin\Release\net8.0\CasualDev.Numerics.dll" target="lib\net8.0\CasualDev.Numerics.dll" />
+  </files>
+</package>

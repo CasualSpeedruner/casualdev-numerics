@@ -1,6 +1,5 @@
 # CasualDev.Numerics
 Adds a "real" type (real number) to represent a floating point number with unlimited decimal precision.
-\n
 
 
 ## Overview
